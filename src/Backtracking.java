@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/** Módulo 3 - Exercício Backtracking */
+
 public class Backtracking {
     public static List<List<Integer>> subconjuntos(int[] S, int n) {
         List<List<Integer>> result = new ArrayList<>();
